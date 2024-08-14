@@ -1,3 +1,5 @@
+Update with the answer.
+
 # Exercise 09 - Palindromes
 
 Write a function that determines whether or not a given string is a palindrome.
